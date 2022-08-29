@@ -609,3 +609,7 @@ const mailVerificacionUsuarioCatarinaAlumno = (linkAlum) => {
     
     </html>`
 }
+module.exports = {
+    mailVerificacionUsuarioCatarinaAlumno,
+    mailVerificacionUsuarioCatarinaProf
+}
